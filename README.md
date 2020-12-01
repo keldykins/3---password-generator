@@ -8,6 +8,12 @@ An application that generates a random password based on user-selected criteria.
 
 https://keldykins.github.io/password-generator/
 
+## Contact
+
+Github: [keldykins](http://github.com/keldykins)
+<br />
+Email: [kelcundy@gmail.com](kelcundy@gmail.com)
+
 ## License
 
 Copyright (c) 2020 Keldan Cundy
